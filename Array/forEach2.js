@@ -1,3 +1,4 @@
+//Criando "na mão" um  foreach:
 Array.prototype.forEach2 = function(callback){
     for(let i = 0; i < this.length; i++){
         //1° parametro: proprio valor, 2° é o índice e o terceiro é o array completo(this)
