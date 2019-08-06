@@ -5,4 +5,4 @@ console.log(moduloA.ola)
 console.log(moduloA.bemVindo)
 
 console.log(moduloB.boaNoite())
-console.log(moduloB)
+console.log(moduloB) //export
