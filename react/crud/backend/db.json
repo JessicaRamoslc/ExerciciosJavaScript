@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira de Jesus",
+      "email": "ohgod@gmail.com"
+    },
+    {
+      "name": "proletariado de jesus",
+      "email": "trabalhador@brasileiro.com",
+      "id": 2
+    }
+    
+  ]
+}
